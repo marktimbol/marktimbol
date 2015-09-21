@@ -38,8 +38,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Laravel 5</div>
-                <p class="lead">Mark Timbol</p>
+                <div class="title">Mark Timbol</div>
             </div>
         </div>
     </body>
